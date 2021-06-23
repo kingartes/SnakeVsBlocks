@@ -65,5 +65,4 @@ public class Spawner : MonoBehaviour
     {
         transform.position = new Vector3(transform.position.x, transform.position.y + distanceY, transform.position.z);
     }
-
 }
